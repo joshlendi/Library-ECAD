@@ -12,4 +12,4 @@
 
 ## License
 * Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
-* [Choose a License](https://choosealicense.com/)
+* [License](https://github.com/joshlendi/Library-ECAD/blob/main/LICENSE.md)
