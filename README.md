@@ -14,4 +14,4 @@
 ## Revisions
 REVISION | DESCRIPTION | DATE
 ------------ | ------------- | -------------
-A | RELEASED | mm/dd/yyyy
+A | RELEASED | 12/29/2020
