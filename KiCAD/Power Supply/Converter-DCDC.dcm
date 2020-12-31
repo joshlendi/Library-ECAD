@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RFM-0505S
+D DC-DC Converter, Isolated, 5Vin, 5Vout, 200mA
+K Isolated DC-DC Converter
+F https://recom-power.com/pdf/Econoline/RFM.pdf
+$ENDCMP
+#
+#End Doc Library
