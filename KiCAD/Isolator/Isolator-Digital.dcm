@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP SI8600
-D Digital Isolator, I2C, 3.3-5V, Bidirectional
-K Bidirectional digital isolator
-F https://www.silabs.com/documents/public/data-sheets/Si860x.pdf
-$ENDCMP
-#
-#End Doc Library
