@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Conductivity__Circuit
+D Conductivity, Total Dissolved Solids, Salinity, Specific Gravity, Breakout Board, UART/I2C
+K Conductivity sensor circuit breakout board Atlas Scientific
+F https://atlas-scientific.com/files/EC_EZO_Datasheet.pdf
+$ENDCMP
+#
+$CMP FlowMeter_Circuit
+D Total Flow, Flow Rate, Breakout Board, UART/I2C
+K Flow meter circuit breakout board Atlas Scientific
+F https://atlas-scientific.com/files/flow_EZO_Datasheet.pdf
+$ENDCMP
+#
+$CMP pH__Circuit
+D pH, Breakout Board, UART/I2C
+K pH sensor circuit breakout board Atlas Scientific
+F https://atlas-scientific.com/files/pH_EZO_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

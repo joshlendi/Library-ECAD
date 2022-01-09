@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MPM3610
+D DC DC CONVERTER 0.8-18.48V
+F https://www.monolithicpower.com/pub/media/document/MPM3610A_r1.0.pdf
+$ENDCMP
+#
+$CMP MPM3610AGQV-Z
+D DC DC CONVERTER 0.8-18.48V
+F https://www.monolithicpower.com/pub/media/document/MPM3610A_r1.0.pdf
+$ENDCMP
+#
+$CMP RFM-0505S
+D DC-DC Converter, Isolated, 5Vin, 5Vout, 200mA
+K Isolated DC-DC Converter
+F https://recom-power.com/pdf/Econoline/RFM.pdf
+$ENDCMP
+#
+#End Doc Library
