@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LMS1587CT
-D Linear Voltage Regulator, IC, 3.3V, 3A, TO220-3
-K Linear voltage regulator 3.3V 3A
-F https://www.ti.com/lit/ds/symlink/lms1587.pdf?HQS=dis-dk-null-digikeymode-dsf-pf-null-wwe&ts=1609362411692
-$ENDCMP
-#
-#End Doc Library
