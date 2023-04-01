@@ -124,7 +124,7 @@
     )
     (symbol "TLC59711PWPR_0_1"
       (rectangle (start -12.7 17.78) (end 12.7 -20.32)
-        (stroke (width 0) (type solid))
+        (stroke (width 0.254) (type solid))
         (fill (type background))
       )
     )

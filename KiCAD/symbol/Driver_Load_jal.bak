@@ -41,7 +41,7 @@
     )
     (symbol "BTS5008-1EKB_1_1"
       (rectangle (start -12.7 12.7) (end 12.7 -12.7)
-        (stroke (width 0) (type solid))
+        (stroke (width 0.254) (type solid))
         (fill (type background))
       )
       (pin no_connect line (at -15.24 -2.54 0) (length 2.54)

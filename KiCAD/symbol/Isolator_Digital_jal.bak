@@ -9,7 +9,7 @@
     (property "Footprint" "" (at 10.16 25.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.silabs.com/documents/public/data-sheets/Si860x.pdf" (at 20.32 27.94 0)
+    (property "Datasheet" "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si860x.pdf" (at 20.32 27.94 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Description" "ISOLATOR, DIGITAL, I2C, 2 CH, BIDIRECTIONAL, SMT" (at 10.16 17.78 0)
